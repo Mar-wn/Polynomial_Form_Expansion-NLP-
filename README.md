@@ -11,6 +11,6 @@
 
 * The attention step defines the **attention weights** and therefore a **context vector**.
 * The decoder is an LSTM that takes the context as input from the attention step and outputs new states.
-* Finally, a softmax dense layer predicts the item at position t.
+* Finally, a softmax dense layer predicts the item at position t..
 
 
